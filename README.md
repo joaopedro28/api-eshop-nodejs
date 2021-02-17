@@ -5,6 +5,13 @@
 # Introduction
 This repository is related to Udemy course of NodeJs: Build The Complete E-Commerce Web API
 
+# Demo
+
+```
+https://api-eshop-backend.herokuapp.com/api/v1/products
+
+```
+
 # Run
 
 ### Install
